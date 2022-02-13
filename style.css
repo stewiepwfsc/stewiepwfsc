@@ -1,0 +1,25 @@
+body {font-family:sans-serif; color: black; background:#FFFFFF;}
+
+td.t1_left {font-family:sans-serif; font-size:76%; background:#FF8080; text-align:left; height:20px; vertical-align:middle}
+td.t1_right {font-family:sans-serif; font-size:76%; background:#FF8080; text-align:right; height:20px; vertical-align:middle}
+td.t1_centre {font-family:sans-serif; font-size:76%; background:#FF8080; text-align:center; height:20px; vertical-align:middle}
+td.t1_split {font-family:sans-serif; font-size:58%; background:#FF8080; text-align:right; height:20px; vertical-align:middle}
+
+td.t2 {font-family:sans-serif; font-size:76%; font-weight:bold; background:#000000; text-align:center;}
+p.t3 {font-family:sans-serif; font-size:14pt; font-weight:bold; text-align:center;}
+
+td.t4_left {font-family:sans-serif; font-size:76%; background:#FFFF80; text-align:left; height:20px; vertical-align:middle}
+td.t4_right {font-family:sans-serif; font-size:76%; background:#FFFF80; text-align:right; height:20px; vertical-align:middle}
+td.t4_centre {font-family:sans-serif; font-size:76%; background:#FFFF80; text-align:center; height:20px; vertical-align:middle}
+td.t4_split {font-family:sans-serif; font-size:58%; background:#FFFF80; text-align:right; height:20px; vertical-align:middle}
+
+td.t5_left {font-family:sans-serif; font-size:66%; background:#FF8080; text-align:left; height:20px; vertical-align:middle}
+td.t5_right {font-family:sans-serif; font-size:66%; background:#FF8080; text-align:right; height:20px; vertical-align:middle}
+td.t5_centre {font-family:sans-serif; font-size:66%; background:#FF8080; text-align:center; height:20px; vertical-align:middle}
+
+td.t6_left {font-family:sans-serif; font-size:66%; background:#FFFF80; text-align:left; height:20px; vertical-align:middle}
+td.t6_right {font-family:sans-serif; font-size:66%; background:#FFFF80; text-align:right; height:20px; vertical-align:middle}
+td.t6_centre {font-family:sans-serif; font-size:66%; background:#FFFF80; text-align:center; height:20px; vertical-align:middle}
+
+a:link {text-decoration: none;}
+a:hover {text-decoration:underline;}
